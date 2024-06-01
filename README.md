@@ -1,5 +1,6 @@
-<!-- ### Hi there 👋-->
-### Hope to be a simple person.
+### Hi there 👋
+This is Aspasia
+- I'm currently learning C++ and Rust
 - My Pixiv HomePage： https://www.pixiv.net/users/103515985
 
 <!--
