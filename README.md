@@ -1,6 +1,7 @@
 ### Hi there 👋
 This is Aspasia
-- I'm currently learning C++ and Rust
+- I'm interested in computer graphics
+- I'm currently learning C++ 
 - My Pixiv HomePage： https://www.pixiv.net/users/103515985
 
 <!--
