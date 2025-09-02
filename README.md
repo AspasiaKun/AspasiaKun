@@ -1,7 +1,8 @@
 ### Hi there 👋
 This is Aspasia
 - I'm interested in computer graphics
-- I'm currently learning C++ 
+- I'm currently learning C++
+- I'm now working as a gameplay programmer
 - My Pixiv HomePage： https://www.pixiv.net/users/103515985
 
 <!--
